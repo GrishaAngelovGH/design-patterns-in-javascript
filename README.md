@@ -7,3 +7,5 @@
 ### 02 - Builder
 
 ### 03 - Factory Method
+
+### 04 - Prototype
