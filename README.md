@@ -9,3 +9,5 @@
 ### 03 - Factory Method
 
 ### 04 - Prototype
+
+### 05 - Singleton
