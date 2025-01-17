@@ -11,3 +11,7 @@
 ### 04 - Prototype
 
 ### 05 - Singleton
+
+### Structural
+
+### 06 - Adapter
