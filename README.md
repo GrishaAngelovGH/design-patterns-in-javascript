@@ -17,3 +17,5 @@
 ### 06 - Adapter
 
 ### 07 - Bridge
+
+### 08 - Composite
