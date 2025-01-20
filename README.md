@@ -19,3 +19,5 @@
 ### 07 - Bridge
 
 ### 08 - Composite
+
+### 09 - Decorator
