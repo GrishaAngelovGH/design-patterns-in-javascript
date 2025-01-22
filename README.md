@@ -23,3 +23,5 @@
 ### 09 - Decorator
 
 ### 10 - Facade
+
+### 11 - Flyweight
