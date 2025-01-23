@@ -25,3 +25,5 @@
 ### 10 - Facade
 
 ### 11 - Flyweight
+
+### 12 - Proxy
