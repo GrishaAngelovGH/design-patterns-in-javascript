@@ -27,3 +27,7 @@
 ### 11 - Flyweight
 
 ### 12 - Proxy
+
+### Behavioral
+
+### 13 - Chain of Responsibility 
