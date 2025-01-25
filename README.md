@@ -30,4 +30,6 @@
 
 ### Behavioral
 
-### 13 - Chain of Responsibility 
+### 13 - Chain of Responsibility
+
+### 14 - Command
