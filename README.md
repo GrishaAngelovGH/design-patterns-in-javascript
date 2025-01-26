@@ -33,3 +33,5 @@
 ### 13 - Chain of Responsibility
 
 ### 14 - Command
+
+### 15 - Interpreter
