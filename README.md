@@ -37,3 +37,5 @@
 ### 15 - Interpreter
 
 ### 16 - Iterator
+
+### 16 - Mediator
