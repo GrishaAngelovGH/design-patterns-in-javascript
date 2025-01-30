@@ -38,4 +38,6 @@
 
 ### 16 - Iterator
 
-### 16 - Mediator
+### 17 - Mediator
+
+### 18 - Memento
