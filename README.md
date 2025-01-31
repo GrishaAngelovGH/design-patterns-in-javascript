@@ -41,3 +41,5 @@
 ### 17 - Mediator
 
 ### 18 - Memento
+
+### 19 - Observer
