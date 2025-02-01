@@ -43,3 +43,5 @@
 ### 18 - Memento
 
 ### 19 - Observer
+
+### 20 - State
