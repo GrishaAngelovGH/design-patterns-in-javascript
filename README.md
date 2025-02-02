@@ -45,3 +45,5 @@
 ### 19 - Observer
 
 ### 20 - State
+
+### 21 - Strategy
