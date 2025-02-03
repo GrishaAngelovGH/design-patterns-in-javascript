@@ -47,3 +47,5 @@
 ### 20 - State
 
 ### 21 - Strategy
+
+### 22 - Template Method
