@@ -49,3 +49,5 @@
 ### 21 - Strategy
 
 ### 22 - Template Method
+
+### 23 - Visitor
